@@ -1,0 +1,13 @@
+C:\Users\hitma\Desktop\portfolio\nai4\EuclidianIris\bin\Debug\netcoreapp3.1\EuclidianIris.exe
+C:\Users\hitma\Desktop\portfolio\nai4\EuclidianIris\bin\Debug\netcoreapp3.1\EuclidianIris.deps.json
+C:\Users\hitma\Desktop\portfolio\nai4\EuclidianIris\bin\Debug\netcoreapp3.1\EuclidianIris.runtimeconfig.json
+C:\Users\hitma\Desktop\portfolio\nai4\EuclidianIris\bin\Debug\netcoreapp3.1\EuclidianIris.runtimeconfig.dev.json
+C:\Users\hitma\Desktop\portfolio\nai4\EuclidianIris\bin\Debug\netcoreapp3.1\EuclidianIris.dll
+C:\Users\hitma\Desktop\portfolio\nai4\EuclidianIris\bin\Debug\netcoreapp3.1\EuclidianIris.pdb
+C:\Users\hitma\Desktop\portfolio\nai4\EuclidianIris\obj\Debug\netcoreapp3.1\EuclidianIris.csprojAssemblyReference.cache
+C:\Users\hitma\Desktop\portfolio\nai4\EuclidianIris\obj\Debug\netcoreapp3.1\EuclidianIris.AssemblyInfoInputs.cache
+C:\Users\hitma\Desktop\portfolio\nai4\EuclidianIris\obj\Debug\netcoreapp3.1\EuclidianIris.AssemblyInfo.cs
+C:\Users\hitma\Desktop\portfolio\nai4\EuclidianIris\obj\Debug\netcoreapp3.1\EuclidianIris.csproj.CoreCompileInputs.cache
+C:\Users\hitma\Desktop\portfolio\nai4\EuclidianIris\obj\Debug\netcoreapp3.1\EuclidianIris.dll
+C:\Users\hitma\Desktop\portfolio\nai4\EuclidianIris\obj\Debug\netcoreapp3.1\EuclidianIris.pdb
+C:\Users\hitma\Desktop\portfolio\nai4\EuclidianIris\obj\Debug\netcoreapp3.1\EuclidianIris.genruntimeconfig.cache
